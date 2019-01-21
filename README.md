@@ -1,2 +1,2 @@
-# UnitTestSuite
-Unit tests for the Optional, Function and Stream APIs
+# UnitTestScala
+Unit tests for the Option, Try and Either APIs
